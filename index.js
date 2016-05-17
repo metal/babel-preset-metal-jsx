@@ -10,8 +10,5 @@ module.exports = {
         runtime: 'iDOMHelpers'
       }
     ]
-  ],
-  presets: [
-    require('babel-preset-metal')
   ]
 };
