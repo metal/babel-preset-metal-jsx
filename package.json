@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-metal-jsx",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A babel preset for building Metal.js projects using JSX",
   "license": "MIT",
   "repository": "metal/babel-preset-metal-jsx",
