@@ -3,7 +3,7 @@
 module.exports = {
   plugins: [
     [
-      require('babel-plugin-incremental-dom'),
+      require('babel-plugin-incremental-dom').default,
       {
         components: true,
         namespaceAttributes: true,
